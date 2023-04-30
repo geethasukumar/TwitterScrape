@@ -14,3 +14,4 @@ Twitter Scraping using snScrape and Streamlit Packages
  
 ![Project output](images/Project_snapshot.PNG)
 
+## Note: snscrape package stopped working. Hence created dummy data set to display, store in MongoDB, Download as JSON, CSV.
