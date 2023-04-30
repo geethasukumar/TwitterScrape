@@ -11,5 +11,6 @@ Twitter Scraping using snScrape and Streamlit Packages
 3. Go to the folder where the file is pulled.
 4. Run the below command.
   streamlit run twitter_scrape.py
-  
+ 
+![Project output](images/Project_snapshot.PNG)
 
