@@ -13,5 +13,6 @@ Twitter Scraping using snScrape and Streamlit Packages
   streamlit run twitter_scrape.py
  
 ![Project output](images/Project_snapshot.PNG)
+![Data output](images/Project_output.PNG)
 
 ## Note: snscrape package stopped working. Hence created dummy data set to display, store in MongoDB, Download as JSON, CSV.
